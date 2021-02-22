@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mathfound</string>
+    <string name="dark">Enable Dark Mode</string>
+    <string name="darkmode">Disable Dark Mode</string>
+    <string name="banner_ad_unit_id">ca-app-pub-2453344230085588/4796887729</string>
+
+    <string name="enable">Enable Dark Mode</string>
+</resources>
